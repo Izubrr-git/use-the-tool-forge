@@ -1,5 +1,6 @@
 <div style="text-align: center;">
 <img src="brand.png"  alt="AxoAmigos Logo">
+
 This is an unofficial forge port of the Use The Tool! mod for fabric. Please support the original work.
 <h2>
 <b>A simple, light-weight mod that requires the player to use the correct tool to mine a block</b>
