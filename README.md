@@ -14,7 +14,6 @@ This is an unofficial forge port of the Use The Tool! mod for fabric. Please s
 </a>
 <br>
 <img alt="fabric" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg">
-<img alt="forge" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/unsupported/forge_vector.svg">
 
 </div>
 
